@@ -1,1 +1,10 @@
 Esta es la historia de Adrián aprendiendo
+Él regreso al curso de Git y GitHub y ahora la quiere romper
+
+Mejorando aun más porque ya sabe cómo usar mejor los códigos
+de la terminal Ubuntu y todo lo demás.
+
+Ahora quiero aprender más y mejor sobre Git y GitHub.
+
+Quiero ser un gran programador, el mejor programador posible
+Platzi me enseñó muchísimo.
