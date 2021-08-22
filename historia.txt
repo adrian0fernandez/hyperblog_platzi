@@ -12,3 +12,5 @@ Platzi me enseñó muchísimo.
 Platzi fue difícil, pero ahora se está volviendo más facil
 
 Vuelvo a intentar un nuevo commit
+
+Ahora voy a hacer otro commit de platzi
